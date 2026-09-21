@@ -1,14 +1,15 @@
-Stuff i know: 
--Java
--Python
--Blender
--Video editing
-InteliJ is the best
+Stuff I know:
 
-And if you are here ...
+Java
+Python
+Blender
+Video editing(Davinci resolve)
+
+IntelliJ IDEA is the best.
+
+And if you are here...
+
 Why ???
-
-
 <!---
 darius172/darius172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
